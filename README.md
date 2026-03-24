@@ -33,6 +33,13 @@ Predictive modeling on NYC taxi trip data — forecasting trip duration and clas
 
 `Python` · `Pandas` · `scikit-learn` · `Classification` · `Regression`
 
+### 🔗 [Jmail Network Explorer](https://github.com/awhite121/jmail-network-explorer)
+End-to-end network analysis of the Jeffrey Epstein email archive. Scraped ~1,533 nodes and ~2,132 edges with a two-phase Selenium pipeline, built a directed weighted graph with NetworkX, and computed centrality metrics across all participants. Applied Louvain community detection to identify 102 clusters — the giant component covers 94% of the network. Deployed as a 6-tab Streamlit dashboard with PyVis force-directed graphs, Sankey flow diagrams, and ego network exploration.
+
+`Python` · `NetworkX` · `Streamlit` · `PyVis` · `Plotly` · `Selenium` · `Louvain Community Detection`
+
+[![Live Dashboard](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://jmail-network-msba.streamlit.app/)
+
 ---
 
 ## Tech Stack
