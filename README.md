@@ -2,12 +2,27 @@
 
 **MS Business Analytics @ UT Austin McCombs**
 
-I build data science and machine learning projects that sit at the intersection of technology, sports, events, and real-world decision-making. I'm drawn to problems where messy, unstructured data meets domain expertise — and where the answer isn't just a model, but an insight someone can act on.
+I build data science and machine learning projects that sit at the intersection of technology, sports, events, and real-world decision-making. I'm drawn to problems where messy, unstructured data meets domain expertise, and where the answer isn't just a model, but an insight someone can act on.
 
-- 🔭 Currently building an AI-assisted medical imaging pipeline with Augmented AI — applying computer vision and deep learning to MRI data for severe spinal canal stenosis detection
-- 📊 Focused on machine learning, NLP, optimization, and predictive analytics
-- 🎓 Coursework in advanced machine learning, optimization, unstructured data, information management, and statistical modeling
-- ⚡ Interests outside of code: college football, music discovery, basketball
+- 🔭 Currently building an AI-assisted medical imaging pipeline with Augmented AI, where I am applying computer vision and deep learning to MRI data for severe spinal canal stenosis detection.
+- 📊 Focused on machine learning, NLP, optimization, and predictive analytics.
+- 🎓 Coursework in advanced machine learning, data science programming, optimization II, unstructured data, marketing analytics, unsupervised learning, information management, and statistical modeling.
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL, R
+
+**Libraries & Frameworks:** pandas, NumPy, scikit-learn, XGBoost, CatBoost, TensorFlow, Keras, PyTorch, MONAI, NLTK, spaCy, BeautifulSoup, Selenium, Playwright
+
+**ML / AI:** Machine Learning, Statistical Modeling, Deep Learning, Computer Vision, NLP, Transformer Models, CNNs, Transfer Learning, Feature Engineering, Model Validation, Hyperparameter Tuning, Threshold Optimization, Dimensionality Reduction
+
+**Data / Cloud:** Snowflake, GCP, Vertex AI, REST APIs, ETL Pipelines, Medallion Architecture, Incremental Data Loads
+
+**BI / Visualization:** Tableau, Power BI, DOMO, Excel, Streamlit
+
+**Tools:** Git, GitHub, Jupyter, Google Colab, Docker, AWS Lightsail, Anvil
 
 ---
 
@@ -39,16 +54,6 @@ End-to-end network analysis of the Jeffrey Epstein email archive. Scraped ~1,533
 `Python` · `NetworkX` · `Streamlit` · `PyVis` · `Plotly` · `Selenium` · `Louvain Community Detection`
 
 [![Live Dashboard](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://jmail-network-msba.streamlit.app/)
-
----
-
-## Tech Stack
-
-**Languages:** Python, SQL, R  
-**Data & Analytics:** Pandas, NumPy, scikit-learn, PyTorch, Seaborn, Matplotlib  
-**NLP & Unstructured:** TF-IDF, Embeddings, Sentiment Analysis, LDA, Google Vision API  
-**Tools & Infra:** Jupyter, Docker, AWS Lightsail, Git, Anvil  
-**Methods:** Machine Learning, Deep Learning (CNN, Transformers), Optimization, Feature Engineering, Recommender Systems
 
 ---
 
