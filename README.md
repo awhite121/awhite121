@@ -1,8 +1,8 @@
-# Hey, I'm Andrew 👋
+# Andrew White 👋👾💻
 
 **MS Business Analytics @ UT Austin McCombs**
 
-I build data science and machine learning projects that sit at the intersection of technology, sports, events, and real-world decision-making. I'm drawn to problems where messy, unstructured data meets domain expertise, and where the answer isn't just a model, but an insight someone can act on.
+I build data science and machine learning projects that sit at the intersection of technology, events, and real-world decision-making. I'm drawn to problems where messy, unstructured data meets domain expertise, and where the answer isn't just a model, but an insight someone can act on.
 
 - 🔭 Currently building an AI-assisted medical imaging pipeline with Augmented AI, where I am applying computer vision and deep learning to MRI data for severe spinal canal stenosis detection.
 - 📊 Focused on machine learning, NLP, optimization, and predictive analytics.
