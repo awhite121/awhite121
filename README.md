@@ -1,12 +1,12 @@
 # Andrew White 👋
 
-**MS Business Analytics, UT Austin McCombs | Data & Analytics Consultant | Applied AI / ML / Analytics Engineering**
+**Technical Solutions, Data & AI | Analytics Engineering, Applied ML, BI, and Customer-Facing Data Products | Texas McCombs MSBA**
 
-I build data, AI, and analytics products that turn messy real-world data into usable models, dashboards, apps, and decision-support tools. My work spans applied machine learning, recommender systems, computer vision, NLP, sports analytics, analytics engineering, BI modernization, and product-focused data apps.
+I build data, AI, and analytics products that turn messy real-world data into usable models, dashboards, apps, and decision-support tools. My background combines client-facing SaaS, consulting, sales/account management, analytics engineering, and applied machine learning, so I like working where business problems meet technical solutions and real people.
 
-- 🔭 Currently working in data and BI consulting, building client-facing analytics solutions across SQL, Snowflake, Power BI, Domo, MicroStrategy, ETL pipelines, and dashboard automation.
-- 🧠 Building applied AI/ML projects across event recommendation, medical imaging, airport travel risk, sports analytics, NLP, and decision-support systems.
-- 📊 Focused on machine learning, analytics engineering, data modeling, predictive analytics, product analytics, and AI-powered tools.
+- 🔭 Working in analytics consulting across SQL, Snowflake, Power BI, Domo, MicroStrategy, ETL workflows, dashboards, and automation.
+- 🧠 Building applied AI/ML projects across event recommendation, airport travel risk, sports analytics, medical imaging, NLP, and decision-support systems.
+- 📊 Focused on technical solutions, analytics engineering, product analytics, applied ML, BI, and customer-facing data products.
 - 🌐 Portfolio: [andrewwhitedata.com](https://www.andrewwhitedata.com)
 - 🎓 MS Business Analytics graduate from UT Austin McCombs.
 
@@ -16,7 +16,9 @@ I build data, AI, and analytics products that turn messy real-world data into us
 
 ### 🎟️ [EncoreAI: Live Music Recommender](https://github.com/awhite121/concert-copilot-streamlit)
 
-Spotify-powered concert discovery and planning assistant. EncoreAI connects to Spotify, learns a user’s music taste, searches live concert inventory, ranks upcoming shows by fit, learns from Want / Maybe / Not a fit feedback, and uses AI to help compare shows or plan a night around an event.
+Spotify-powered concert discovery and planning assistant. EncoreAI supports Spotify OAuth, builds taste profiles from artists/tracks/genres, searches live concert inventory, ranks shows by personalized fit, learns from Want / Maybe / Not a fit feedback, and uses an AI Copilot to compare concerts or plan a night around a show.
+
+Spotify currently restricts live OAuth access to approved users, so I built Demo Mode so anyone can explore the recommendation, ranking, feedback, and Copilot experience without connecting a Spotify account.
 
 `Python` · `Streamlit` · `Spotify API` · `OpenAI` · `Recommender Systems` · `XGBoost` · `Event APIs` · `LLM Planning`
 
@@ -40,7 +42,7 @@ Interactive airport travel-planning dashboard for Manhattan travelers heading to
 
 College football analytics platform combining 2025 season analysis with 2026 preseason projections. Includes team rankings, team intel, verified QB context, transfer portal intelligence, schedule strength, matchup win probability, weather-adjusted game prediction, and CFP-style analysis.
 
-`Python` · `Streamlit` · `Pandas` · `Sports Analytics` · `Win Probability` · `Feature Engineering` · `Modeling` · `Dashboard UX`
+`Python` · `Streamlit` · `Pandas` · `Sports Analytics` · `Win Probability` · `Feature Engineering` · `Dashboard UX`
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit&logoColor=white)](https://cfb-power-index-v2.streamlit.app/)
 [![Portfolio Case Study](https://img.shields.io/badge/Portfolio-Case_Study-c45d3e)](https://www.andrewwhitedata.com/college-football-power-index)
@@ -49,9 +51,7 @@ College football analytics platform combining 2025 season analysis with 2026 pre
 
 ### 🩻 [AI-Assisted Spine MRI Screening](https://github.com/awhite121/AI-Radiology-Screening-Lumbar-Spine-MRI-Severity-Classification)
 
-Deep learning pipeline for study-level lumbar spine MRI screening. Built an end-to-end medical imaging workflow using DICOM preprocessing, leakage-safe study-level splits, ResNet18 transfer learning, multi-slice transformer aggregation, MedSAM ROI localization, and threshold tuning for severe spinal canal stenosis screening.
-
-Framed as clinical decision support to prioritize studies for human review, not replace radiologists.
+Deep learning pipeline for study-level lumbar spine MRI screening using DICOM preprocessing, leakage-safe splits, ResNet18 transfer learning, multi-slice transformer aggregation, MedSAM ROI localization, and threshold tuning. Framed as clinical decision support to prioritize studies for human review, not replace radiologists.
 
 `Python` · `PyTorch` · `MONAI` · `Computer Vision` · `ResNet18` · `Transformers` · `MedSAM` · `DICOM` · `Medical AI`
 
@@ -61,7 +61,7 @@ Framed as clinical decision support to prioritize studies for human review, not 
 
 ### 🎮 [Connect 4 AI: CNN vs Transformer Game Agent](https://github.com/awhite121/connect4-ai)
 
-Trained CNN and Transformer models on MCTS-generated gameplay data to build a competitive Connect 4 agent. The project covers the full ML lifecycle: synthetic data generation, model architecture comparison, training, Docker containerization, AWS Lightsail deployment, and a live playable Anvil app.
+Trained CNN and Transformer models on MCTS-generated gameplay data to build a competitive Connect 4 agent. The project covers synthetic data generation, model architecture comparison, Docker containerization, AWS Lightsail deployment, and a live playable Anvil app.
 
 `Python` · `TensorFlow` · `Keras` · `CNNs` · `Transformers` · `MCTS` · `Docker` · `AWS Lightsail` · `Anvil`
 
@@ -82,7 +82,7 @@ Client-facing analytics engineering project rebuilding legacy Domo ETL into Snow
 
 ### 🏀 [Texas Women's Basketball Instagram Engagement](https://github.com/awhite121/ut-wbb-instagram-engagement)
 
-Sports analytics and content strategy project analyzing 500+ Instagram posts using text, image, and content metadata. Built classification models to predict engagement and identify which themes, visuals, and post types drove stronger fan interaction.
+Sports analytics and content strategy project analyzing 500+ Instagram posts using text, image, and content metadata to predict engagement and identify which themes, visuals, and post types drove stronger fan interaction.
 
 `Python` · `Selenium` · `Computer Vision` · `NLP` · `Classification` · `LDA` · `Visualization`
 
@@ -92,7 +92,7 @@ Sports analytics and content strategy project analyzing 500+ Instagram posts usi
 
 ### 🎵 [RateYourMusic Album Recommender System](https://github.com/awhite121/RateYourMusic-Recommender-System)
 
-Content-based album recommender built from scraped music reviews. Converts unstructured text into numerical representations using TF-IDF, embedding-based similarity, sentiment-aware ranking, and domain-trained Word2Vec embeddings.
+Content-based album recommender built from scraped music reviews using TF-IDF, embedding-based similarity, sentiment-aware ranking, and domain-trained Word2Vec embeddings.
 
 `Python` · `NLP` · `TF-IDF` · `Word2Vec` · `Embeddings` · `Sentiment Analysis` · `Cosine Similarity`
 
@@ -114,7 +114,7 @@ Network analysis project turning messy email metadata into an interactive graph 
 
 **Languages:** Python, SQL, R
 
-**Machine Learning / AI:** scikit-learn, XGBoost, CatBoost, TensorFlow, Keras, PyTorch, MONAI, LangChain, OpenAI, SHAP, model validation, feature engineering, threshold tuning, recommender systems, classification, regression, NLP, computer vision, transformers
+**Machine Learning / AI:** scikit-learn, XGBoost, CatBoost, TensorFlow, Keras, PyTorch, MONAI, LangChain, OpenAI, SHAP, feature engineering, model validation, threshold tuning, recommender systems, classification, regression, NLP, computer vision, transformers
 
 **Data / Analytics Engineering:** Snowflake, dbt, ETL/ELT, medallion architecture, data modeling, validation checks, REST APIs, Docker, AWS Lightsail, GCP, PostgreSQL
 
@@ -127,8 +127,8 @@ Network analysis project turning messy email metadata into an interactive graph 
 ## What I Like Building
 
 - AI products that feel useful, not just technically impressive
+- Customer-facing data tools that explain what is happening and what to do next
 - Predictive models that turn into actual decisions
-- Dashboards that explain what is happening and what to do next
 - Data pipelines that make messy business logic reliable
 - Applied ML projects with real deployment, product thinking, and evaluation
 
@@ -149,9 +149,3 @@ Network analysis project turning messy email metadata into an interactive graph 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_White-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-white12/)
 [![GitHub](https://img.shields.io/badge/GitHub-awhite121-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awhite121)
 [![Email](https://img.shields.io/badge/Email-andrewwhiteack%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewwhiteack@gmail.com)
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-andrewwhitedata.com-c45d3e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.andrewwhitedata.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-white12/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewwhiteack@gmail.com)
